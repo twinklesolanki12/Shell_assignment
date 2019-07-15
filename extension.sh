@@ -1,5 +1,5 @@
 #$ dir_source_path is taking path of the directory from where the user wanted to take a file to compress
-
+# todo readme
 echo "Enter the Directory path:$dir_source_path"
 read dir_source_path
  if [ -z "$dir_source_path" ]
